@@ -7,9 +7,11 @@ home
 
 @section('yeld1')
 <h1>
-    HOMEPAGE
+    MAIN PAGE
 </h1>
 @endsection
+
+
 
 @section('content')
 <p>
